@@ -1,20 +1,26 @@
 # 💫 About Me:
 🔭 I’m currently working on 
+
 Building security focused project in Golang and C/eBPF, with an emphasis on malware analysis and system-level tooling.
 
 👯 I’m looking to collaborate on
+
 Open-source cybersecurity tools, backend systems, and projects that involve low-level programming.
 
 🤝 I’m looking for help with
+
 Advanced Linux internals, scalable system design, and improving code performance.
 
 🌱 I’m currently learning
+
 Go, cloud infrastructure basics, and modern defensive security techniques.
 
 💬 Ask me about 
+
 Cybersecurity, C/C++, Linux, backend development, or getting started with security projects.
 
 ⚡ Fun fact
+
 I enjoy writing clean, well-structured code.
 
 
